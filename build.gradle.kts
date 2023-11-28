@@ -7,3 +7,6 @@ plugins {
     // Add KSP
     id("com.google.devtools.ksp") version "1.8.10-1.0.9" apply false
 }
+tasks.register("Clean", Delete::class.java) {
+    delete(rootProject.buildDir)
+}

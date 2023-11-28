@@ -44,7 +44,7 @@ android {
 
 dependencies {
     // Add Splashcreen
-    implementation("androidx.core:core-splashscreen:1.1.1-aplha02")
+    implementation("androidx.core:core-splashscreen:1.1.0-alpha02")
 
     // Picasso -> Image loader
     implementation("com.squareup.picasso:picasso:2.8")
