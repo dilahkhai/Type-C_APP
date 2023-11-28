@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.dilah.typec"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.dilah.typec"
