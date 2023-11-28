@@ -1,11 +1,11 @@
-package com.dilah.typec
+package com.applen.typec
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class DetailActivity : AppCompatActivity() {
+class SearchableActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_detail)
+        setContentView(R.layout.activity_searchable)
     }
 }

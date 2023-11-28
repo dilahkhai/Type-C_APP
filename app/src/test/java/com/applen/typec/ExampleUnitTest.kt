@@ -1,4 +1,4 @@
-package com.dilah.typec
+package com.applen.typec
 
 import org.junit.Test
 
